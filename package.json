@@ -2,8 +2,10 @@
   "name": "CRUD_React",
   "private": true,
   "dependencies": {
+    "@rails/actioncable": "^6.0.0",
     "@rails/ujs": "^6.0.0",
-    "@rails/actioncable": "^6.0.0"
+    "date-fns": "^2.13.0",
+    "react-app-polyfill": "^1.0.6"
   },
   "version": "0.1.0"
 }
